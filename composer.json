@@ -1,0 +1,14 @@
+{
+    "name": "ricky/email",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Ricky Li",
+            "email": "ricky@toast.co.nz"
+        }
+    ]
+}
